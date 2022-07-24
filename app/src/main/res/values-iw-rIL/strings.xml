@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">רשימת קניות</string>
+
+
+    <string name="date">תאריך:</string>
+    <string name="time">שעה:</string>
+    <string name="select">בחר</string>
+
+    <string name="product_name">שם המוצר</string>
+    <string name="quantity">כמות</string>
+    <string name="edit">ערוך</string>
+    <string name="remove">מחק</string>
+
+    <string name="txt_select_date">בחר שעה</string>
+    <string name="txt_add_new_item">מוצר חדש</string>
+    <string name="txt_save">שמור</string>
+    <string name="txt_title_add_new_item">הוספת מוצר חדש</string>
+    <string name="txt_item_name">שם:</string>
+    <string name="txt_item_quantity">כמות:</string>
+
+    <string name="settings">הגדרות</string>
+    <string name="notification">לאפשר שליחת התראות?</string>
+    <string name="exit">יציאה</string>
+    <string name="time_to_notification">תזכור מספר שעות לפני</string>
+    <string name="txt_save_date_time">שמור</string>
+    <string name="date_and_time_updated">תאריך והשעה עודכנו</string>
+    <string name="Please_fill_all_details">מלאו את כל הפרטים</string>
+    <string name="please_fill_all_details">מלאו את כל הפרטים</string>
+    <string name="the_item_updated">המוצר עודכן</string>
+    <string name="new_item_added_to_the_list">המוצר נוסף לרשימה</string>
+    <string name="the_item_already_exist">המוצר כבר קיים ברשימה</string>
+    <string name="reminder_shopping_list">תזכורת ללכת לחנות</string>
+    <string name="you_have_to_go_to_shop_at">תזכרות ללכת לחנות בתאריך והשעה:</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="remove_item">האם למחוק את המוצר מהרשימה ?</string>
+    <string name="notifications">התראות</string>
+    <string name="notificationAlways">להציג התראה קבוע</string>
+
+
+</resources>
